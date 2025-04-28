@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Test release</title>
+
+        <item>
+            <title>Version 0.2</title>
+            <link>https://drive.google.com/drive/folders/1jr7aBbOcP52g0_43HaHIQOpXdr2-Kpqa?usp=drive_link</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                The release note for this test release
+            ]]>
+            </description>
+            <pubDate>Sat, 28 Apr 2025 14:40:11 +0000</pubDate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags>
+        </item>
+
+    </channel>
+</rss>
