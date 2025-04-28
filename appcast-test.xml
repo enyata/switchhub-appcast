@@ -4,9 +4,9 @@
         <title>Test release</title>
         <item>
             <title>Version 0.2</title>
-            <description><![CDATA[
-            The release note for this test release
-            ]]>
+            <description>
+                <![CDATA[The release note for this test release
+                ]]>
             </description>
             <pubDate>Sat, 28 Apr 2025 15:40:11 +0000</pubDate>
             <enclosure url="https://drive.google.com/drive/folders/1jr7aBbOcP52g0_43HaHIQOpXdr2-Kpqa?usp=drive_link" sparkle:version="0.2.1" />
