@@ -4,8 +4,7 @@
         <title>Test release</title>
         <item>
             <title>Version 0.2</title>
-            <description>
-                <![CDATA[The release note for this test release
+            <description><![CDATA[The release note for this test release
                 ]]>
             </description>
             <pubDate>Sat, 28 Apr 2025 15:40:11 +0000</pubDate>
