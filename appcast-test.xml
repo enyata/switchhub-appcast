@@ -3,10 +3,18 @@
     <channel>
         <title>Test release</title>
         <item>
-            <title>Version 0.2</title>
+            <title>Version 0.3</title>
             <description>The release note for this test release</description>
             <pubDate>Sat, 28 Apr 2025 15:40:11 +0000</pubDate>
             <enclosure url="https://drive.google.com/drive/folders/1jr7aBbOcP52g0_43HaHIQOpXdr2-Kpqa?usp=drive_link" sparkle:version="0.3.2" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+        </item>
+
+        <item>
+            <title>Version 0.3</title>
+            <description>The release note for this test release</description>
+            <pubDate>Sat, 29 Apr 2025 13:40:11 +0000</pubDate>
+            <enclosure url="https://testflight.apple.com/" sparkle:version="0.3.5" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
         </item>
 
