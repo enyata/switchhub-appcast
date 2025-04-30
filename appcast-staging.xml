@@ -2,6 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Staging release</title>
+        <item>
+            <title>Android release</title>
+            <pubDate>Wed, 30 Apr 2025 14:40:11 +0000</pubDate>
+            <enclosure
+                url="https://drive.google.com/drive/folders/1jr7aBbOcP52g0_43HaHIQOpXdr2-Kpqa?usp=drive_link"
+                sparkle:version="0.2.1" sparkle:os="android" />
+        </item>
+        <item>
+            <title>iOS release</title>
+            <pubDate>Wed, 30 Apr 2025 14:40:11 +0000</pubDate>
+            <enclosure url="https://testflight.apple.com/" sparkle:version="0.3.5"
+                sparkle:os="ios" />
+        </item>
 
     </channel>
 </rss>
