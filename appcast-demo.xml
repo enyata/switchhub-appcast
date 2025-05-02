@@ -2,6 +2,24 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Demo release</title>
+        <item>
+            <title>Android release</title>
+            <description>- Fixed issue with rates not auto updating (when rates dashboard view is not visited at least once)
+            </description>
+            <pubDate>Fri, 02 May 2025 13:35:00 +0000</pubDate>
+            <enclosure
+                url="https://drive.google.com/drive/folders/1xpX3poPvuz5imkyQaLDVoENjzDFgnJEC?usp=drive_link"
+                sparkle:version="0.2.3-demo" sparkle:os="android" />
+        </item>
+        <item>
+            <title>iOS release</title>
+            <pubDate>Fri, 02 May 2025 13:35:00 +0000</pubDate>
+            <description>
+                - Fixed issue with rates not auto updating (when rates dashboard view is not visited at least once)
+                - swipe-back navigation gesture not working when on some pages
+            </description>
+            <enclosure url="itms-beta://" sparkle:version="0.2.3" sparkle:os="ios" />
+        </item>
 
     </channel>
 </rss>
