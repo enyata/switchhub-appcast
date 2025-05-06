@@ -14,8 +14,11 @@
         <item>
             <title>iOS release</title>
             <pubDate>Fri, 02 May 2025 13:35:00 +0000</pubDate>
-            <description> A test release note</description>
-            <enclosure url="itms-beta://" sparkle:version="0.2.4" sparkle:os="ios" />
+            <description>
+                - Fixed issue with rates not auto updating (when rates dashboard view is not visited at least once)
+                - swipe-back navigation gesture not working when on some pages
+            </description>
+            <enclosure url="itms-beta://" sparkle:version="0.2.3" sparkle:os="ios" />
         </item>
 
     </channel>
