@@ -57,5 +57,19 @@
                 sparkle:os="ios" />
         </item>
 
+        <item>
+            <title>Android release</title>
+            <pubDate>Mon, 13 May 2025 10:45:00 +0000</pubDate>
+            <enclosure
+                url="https://drive.google.com/drive/folders/1jr7aBbOcP52g0_43HaHIQOpXdr2-Kpqa?usp=drive_link"
+                sparkle:version="0.2.5-stg" sparkle:os="android" />
+        </item>
+        <item>
+            <title>iOS release</title>
+            <pubDate>Mon, 13 May 2025 10:45:00 +0000</pubDate>
+            <enclosure url="itms-beta://" sparkle:version="0.2.5"
+                sparkle:os="ios" />
+        </item>
+
     </channel>
 </rss>
