@@ -55,5 +55,27 @@
             <enclosure url="itms-beta://" sparkle:version="0.2.5" sparkle:os="ios" />
         </item>
 
+        <item>
+            <title>Android release</title>
+            <pubDate>Mon, 20 May 2025 11:45:00 +0000</pubDate>
+            <description>
+                - Can generate account statement
+                - Can re-upload rejected business document via notification
+            </description>
+            <enclosure
+                url="https://drive.google.com/drive/folders/1xpX3poPvuz5imkyQaLDVoENjzDFgnJEC?usp=drive_link"
+                sparkle:version="0.2.6-demo" sparkle:os="android" />
+        </item>
+        <item>
+            <title>iOS release</title>
+            <pubDate>Mon, 20 May 2025 11:45:00 +0000</pubDate>
+            <description>
+                - Can generate account statement
+                - Can re-upload rejected business document via notification
+            </description>
+            <enclosure url="itms-beta://" sparkle:version="0.2.6"
+                sparkle:os="ios" />
+        </item>
+
     </channel>
 </rss>
